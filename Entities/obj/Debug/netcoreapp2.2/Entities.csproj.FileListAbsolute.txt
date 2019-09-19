@@ -1,0 +1,9 @@
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Entities\obj\Debug\netcoreapp2.2\Entities.pdb

@@ -1,0 +1,16 @@
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Service.runtimeconfig.json
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Service.runtimeconfig.dev.json
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\namig\Desktop\Projects\Best-Practices\email-rabbitmq-elastic\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
